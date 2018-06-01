@@ -78,6 +78,10 @@ INSERT INTO Jogo (Nome) VALUES ('Injustice 2');
 INSERT Usuario (Login, Senha) VALUES ('admin', 'admin');
 ```
 
+# Usuário/senha para logar no sistema
+- Usuário: admin
+- Senha: admin
+
 # Configurar conexão com o banco de dados - appsettings.json
 Default (porta: 1433, nome da base: emprestimo_jogos, usuário da base: SA, senha: SENHA)
 ```
