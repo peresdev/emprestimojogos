@@ -8,3 +8,14 @@
 /Users/mobile/Projects/EmprestimoJogos/EmprestimoJogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.AssemblyInfo.cs
 /Users/mobile/Projects/EmprestimoJogos/EmprestimoJogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.dll
 /Users/mobile/Projects/EmprestimoJogos/EmprestimoJogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.pdb
+/Users/mobile/emprestimojogos/bin/Debug/netcoreapp2.0/EmprestimoJogos.deps.json
+/Users/mobile/emprestimojogos/bin/Debug/netcoreapp2.0/EmprestimoJogos.runtimeconfig.json
+/Users/mobile/emprestimojogos/bin/Debug/netcoreapp2.0/EmprestimoJogos.runtimeconfig.dev.json
+/Users/mobile/emprestimojogos/bin/Debug/netcoreapp2.0/EmprestimoJogos.dll
+/Users/mobile/emprestimojogos/bin/Debug/netcoreapp2.0/EmprestimoJogos.pdb
+/Users/mobile/emprestimojogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.csprojResolveAssemblyReference.cache
+/Users/mobile/emprestimojogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.csproj.CoreCompileInputs.cache
+/Users/mobile/emprestimojogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.AssemblyInfoInputs.cache
+/Users/mobile/emprestimojogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.AssemblyInfo.cs
+/Users/mobile/emprestimojogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.dll
+/Users/mobile/emprestimojogos/obj/Debug/netcoreapp2.0/EmprestimoJogos.pdb

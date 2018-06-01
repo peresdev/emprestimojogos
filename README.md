@@ -13,7 +13,7 @@ Projeto para gerenciar o Empréstimo de Jogos a amigos
 ```sql
 CREATE DATABASE emprestimo_jogos;
 ```
-2. Usar a base criada1
+2. Usar a base criada
 ```sql
 USE emprestimo_jogos;
 ```

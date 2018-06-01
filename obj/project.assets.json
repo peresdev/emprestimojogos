@@ -12669,11 +12669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mobile/Projects/EmprestimoJogos/EmprestimoJogos/EmprestimoJogos.csproj",
+      "projectUniqueName": "/Users/mobile/emprestimojogos/EmprestimoJogos.csproj",
       "projectName": "EmprestimoJogos",
-      "projectPath": "/Users/mobile/Projects/EmprestimoJogos/EmprestimoJogos/EmprestimoJogos.csproj",
+      "projectPath": "/Users/mobile/emprestimojogos/EmprestimoJogos.csproj",
       "packagesPath": "/Users/mobile/.nuget/packages/",
-      "outputPath": "/Users/mobile/Projects/EmprestimoJogos/EmprestimoJogos/obj",
+      "outputPath": "/Users/mobile/emprestimojogos/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
