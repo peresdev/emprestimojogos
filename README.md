@@ -83,7 +83,7 @@ INSERT Usuario (Login, Senha) VALUES ('admin', 'admin');
 - Senha: admin
 
 # Configurar conexão com o banco de dados - appsettings.json
-Default (porta: 1433, nome da base: emprestimo_jogos, usuário da base: SA, senha: SENHA)
+Default (host: localhost, porta: 1433, nome da base: emprestimo_jogos, usuário da base: SA, senha: SENHA)
 ```
   "ConnectionStrings": {
     "BaseEmprestimoJogos": "Server=tcp:localhost,1433;Initial Catalog=emprestimo_jogos;Persist Security Info=True;User Id=SA;Password=SENHA;"
