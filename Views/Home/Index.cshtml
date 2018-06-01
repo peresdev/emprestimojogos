@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container">
+    <div class="columns">
+        <div class="column is-3">
+            <aside class="menu">
+                <p class="menu-label">
+                    Administração
+                </p>
+                <ul class="menu-list">
+                    <li><a class="is-active" asp-controller="Home" asp-action="Index">Totais</a></li>
+                    <li><a asp-controller="Amigos" asp-action="Index">Amigos</a></li>
+                    <li><a asp-controller="Jogos" asp-action="Index">Jogos</a></li>
+                </ul>
+            </aside>
+        </div>
+        <div class="column is-9">
+            <section class="hero is-info welcome is-small">
+                <div class="hero-body">
+                    <div class="container">
+                        <h1 class="title">
+                            Olá. Confira a relação dos Amigos x Jogos :)
+                        </h1>
+                    </div>
+                </div>
+            </section>
+            <section class="info-tiles">
+                <div class="tile is-ancestor has-text-centered">
+                    <div class="tile is-parent">
+                        <article class="tile is-child box">
+                            <p class="title">@ViewBag.AmigosCadastrados</p>
+                            <p class="subtitle">Amigos cadastrados</p>
+                        </article>
+                    </div>
+                    <div class="tile is-parent">
+                        <article class="tile is-child box">
+                            <p class="title">@ViewBag.JogosCadastrados</p>
+                            <p class="subtitle">Jogos cadastrados</p>
+                        </article>
+                    </div>
+                    <div class="tile is-parent">
+                        <article class="tile is-child box">
+                            <p class="title">@ViewBag.JogosEmprestados</p>
+                            <p class="subtitle">Jogos emprestados</p>
+                        </article>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
