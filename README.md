@@ -93,7 +93,7 @@ Default (porta: 1433, nome da base: emprestimo_jogos, usuário da base: SA, senh
 # Possíveis melhorias
 - Verificação de usuário logado nas páginas internas
 - Criptografar senha
-- Utilizar algum serviço em Nuvem, como o Azure para a realização de Login.
+- Utilizar algum serviço em Nuvem, como o Azure, para a realização de login.
 - Testes unitários
 
 # Autor
