@@ -1,5 +1,5 @@
 # Empréstimo de Jogos
-Projeto para gerenciar o Empréstimo de Jogos a amigos
+Projeto para gerenciar o Empréstimo de Jogos a amigos.
 
 # Tecnologias utilizadas
 - ASP.NET Core 2.0
@@ -99,4 +99,4 @@ Default (porta: 1433, nome da base: emprestimo_jogos, usuário da base: SA, senh
 - Testes unitários
 
 # Autor
-Leandro Peres
+Leandro Peres Gonçalves
