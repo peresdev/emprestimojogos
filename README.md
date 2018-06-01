@@ -93,6 +93,7 @@ Default (host: localhost, porta: 1433, nome do bd: emprestimo_jogos, usuário do
 # Possíveis melhorias
 - Paginação nas listagens de amigos e jogos
 - Busca utilizando os dados das tabelas nas listagens de amigos e jogos
+- Chave estrangeira na tabela Jogo (AmigoID) e validação no backend na exclusão de um amigo que esteja vinculado a um ou mais jogos
 - Verificação de usuário logado nas páginas internas
 - Criptografar senha
 - Utilizar algum serviço em Nuvem, como o Azure, para a realização de login
