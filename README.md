@@ -36,7 +36,7 @@ CREATE TABLE Usuario (
 	Senha varchar(255)
 );
 ```
-4. Inserir dados (opcional)
+4. Inserir dados
 ```sql
 INSERT Amigo (Nome) VALUES ('Mateus');
 INSERT Amigo (Nome) VALUES ('Rafael');
@@ -91,9 +91,11 @@ Default (porta: 1433, nome da base: emprestimo_jogos, usuário da base: SA, senh
  ```
 
 # Possíveis melhorias
+- Paginação nas listagens de amigos e jogos
+- Busca utilizando os dados das tabelas nas listagens de amigos e jogos
 - Verificação de usuário logado nas páginas internas
 - Criptografar senha
-- Utilizar algum serviço em Nuvem, como o Azure, para a realização de login.
+- Utilizar algum serviço em Nuvem, como o Azure, para a realização de login
 - Testes unitários
 
 # Autor
